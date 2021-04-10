@@ -7,20 +7,20 @@
    4) kaggle - Megafon
    
 2. Unsupervised learning 
-   a) sensors on hands (PCA + KNeighborsClassifier),
-   b) clustering of texts (standard text preprocessing + DBSCAN)
+   1) sensors on hands (PCA + KNeighborsClassifier),
+   2) clustering of texts (standard text preprocessing + DBSCAN)
    
 3. Kaggle - porn detection (text preprocessing, TfidfVectorizer, Mystem, nltk, WordNetLemmatizer, n-grams + ensemble method)
 
 4. Language identification (text preprocessing, CountVectorizer, n-grams)
 
 5. Book recommendation system
-   a) simple personal top
-   b) method based on clustering similar users
-   c) co-occurrence recommendation
-   d) content based
-   e) collaborative filtering
-   f) matrix factorization
+   1) simple personal top
+   2) method based on clustering similar users
+   3) co-occurrence recommendation
+   4) content based
+   5) collaborative filtering
+   6) matrix factorization
    
 6. Geodata (GeoPandas, OSM, Overpass API, Folium)
 
