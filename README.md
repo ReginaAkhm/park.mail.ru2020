@@ -1,2 +1,3 @@
 # park.mail.ru2020
-fundamentals of machine learning 
+## Hello!
+There is homework for the "Fundamentals of machine learning" from Mail.ru Group
