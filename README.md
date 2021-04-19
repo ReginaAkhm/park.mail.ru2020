@@ -12,7 +12,7 @@
    
 3. Kaggle - porn detection (text preprocessing, TfidfVectorizer, Mystem, nltk, WordNetLemmatizer, n-grams + ensemble method)
 
-4. Language identification (text preprocessing, CountVectorizer, n-grams)
+4. Kaggle - language identification (text preprocessing, CountVectorizer, n-grams)
 
 5. Book recommendation system
    1) simple personal top
