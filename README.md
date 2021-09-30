@@ -1,5 +1,4 @@
 # park.mail.ru2020
-## Hello!
 ### There is homework for the "Fundamentals of machine learning" from Mail.ru Group
 1. 1) Linear model (theory), 
    2) desicion tree (Titanic - binary classification), 
